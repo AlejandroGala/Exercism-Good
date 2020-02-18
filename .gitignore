@@ -1,5 +1,2 @@
 .env
-./hello-world/node_modules/
-./resistor-color/node-modules/
-./two-fer/node-modules/
-./resistor-color-duo/node-modules/
+/hello-world/node_modules/
